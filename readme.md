@@ -5,6 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=nikhilrana2076&color=green)
 
+- 🌐 My portfolio website [nikhilrana.com.np](http://nikhilrana.com.np/)
+
 - 📝 I regularly write articles on [nikhilrana2076.blogspot.com](https://nikhilrana2076.blogspot.com/)
 
 - 📫 How to reach me **nikhilrana2076@gmail.com**
