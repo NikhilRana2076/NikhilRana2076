@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikhil-rana2076" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="nikhil-rana2076" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhilrana2076" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="nikhil-rana2076" height="30" width="40" /></a>
 <a href="https://medium.com/@nikhilrana2076" target="blank"><img align="center" src="https://www.underconsideration.com/brandnew/archives/medium_2017_monogram.png" alt="@nikhilrana2076" height="30" width="40" /></a>
 </p>
 
