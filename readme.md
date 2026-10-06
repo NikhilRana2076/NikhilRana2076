@@ -1,24 +1,27 @@
-<h1 align="center">Hi👋🏽, I'm Nikhil Rana. 💟</h1>
-<h3 align="center">Analytical, bright, confident, dependable & enthusiastic fresher. 💻</h3>
-<hr>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNmMTZkMjlmZjg1MDllOWUxNWI3NjQ3NDhhMDg3NGY2ODQ4MDZkNiZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
+# Hi, I'm Nikhil Rana
 
-![](https://komarev.com/ghpvc/?username=nikhilrana2076&color=green)
+MSc Artificial Intelligence (University of West London), working across responsible AI, machine learning and data engineering. Based in London, open to graduate roles anywhere in the UK, with no visa sponsorship needed until late 2028.
 
-- 🌐 My portfolio website is [nikhilrana.com.np](http://nikhilrana.com.np/)
+## What I built
 
-- 📝 I regularly write articles on [nikhilrana2076.blogspot.com](https://nikhilrana2076.blogspot.com/)
+**[TagTrace](https://ixbrl.nikhilrana.com.np)** is my MSc dissertation project. It answers plain-English questions about UK company accounts by reading the machine-readable tags in iXBRL filings instead of guessing from the text. Tag-aware retrieval raised LLM accuracy from 45.1% to 92.2% on a 102-question benchmark over 12 filings. It runs as a free public app with CI, 54 automated tests and a regression check on every pull request.
 
-- 📫 How to reach me **nikhilrana2076@gmail.com**
+- Code: [ixbrl-qa-demo](https://github.com/NikhilRana2076/ixbrl-qa-demo)
+- Case study: [nikhilrana.com.np/tagtrace](https://nikhilrana.com.np/tagtrace/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nikhilrana2076" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="nikhil-rana2076" height="30" width="40" /></a>
-<a href="https://medium.com/@nikhilrana2076" target="blank"><img align="center" src="https://www.underconsideration.com/brandnew/archives/medium_2017_monogram.png" alt="@nikhilrana2076" height="30" width="40" /></a>
-</p>
+## Other work
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<br><hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilrana2076&show_icons=true&locale=en&layout=compact" alt="nikhilrana2076" /></p>
+- [Diabetes prediction](https://github.com/NikhilRana2076/Diabetes_prediction): group project comparing six models, picked by fewest missed diagnoses
+- [Impact of discount on customers](https://github.com/NikhilRana2076/Impact_of_Discount_on_Customers): K-Means segmentation and discount elasticity
+- [Facial recognition voting system](https://github.com/NikhilRana2076/FRVSO): LBPH face verification with one-time-password 2FA
 
+## Tools
+
+Python, SQL, scikit-learn, PyTorch, LightGBM, RAG and LLM evaluation (Claude and GPT), Flask, SQLite, Git and GitHub Actions.
+
+## Find me
+
+- Portfolio: [nikhilrana.com.np](https://nikhilrana.com.np/)
+- Writing: [Medium](https://medium.com/@nikhilrana2076)
+- LinkedIn: [nikhilrana2076](https://linkedin.com/in/nikhilrana2076)
+- Email: nikhilrana2059@gmail.com
