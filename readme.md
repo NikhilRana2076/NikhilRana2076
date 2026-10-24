@@ -4,7 +4,7 @@ MSc Artificial Intelligence (University of West London), working across responsi
 
 ## What I built
 
-**[TagTrace](https://ixbrl.nikhilrana.com.np)** is my MSc dissertation project. It answers plain-English questions about UK company accounts by reading the machine-readable tags in iXBRL filings instead of guessing from the text. Tag-aware retrieval raised LLM accuracy from 45.1% to 92.2% on a 102-question benchmark over 12 filings. It runs as a free public app with CI, 54 automated tests and a regression check on every pull request.
+**[TagTrace](https://ixbrl.nikhilrana.com.np)** is my MSc dissertation project. It answers plain-English questions about UK company accounts by reading the machine-readable tags in iXBRL filings instead of guessing from the text. Tag-aware retrieval raised LLM accuracy from 45.1% to 92.2% on a 102-question benchmark over 12 filings. The dissertation was marked 86/100. It runs as a free public app with CI, 54 automated tests and a regression check on every pull request.
 
 - Code: [ixbrl-qa-demo](https://github.com/NikhilRana2076/ixbrl-qa-demo)
 - Case study: [nikhilrana.com.np/tagtrace](https://nikhilrana.com.np/tagtrace/)
